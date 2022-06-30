@@ -1,0 +1,6 @@
+{
+    "access_token": "glpat-mBpr7Sd8tAeeX9ryypaV",
+    "group_id": "4347861",
+    "endpoint": "https://gitlab.com/api/v4/groups/{}/epics?state=opened",
+    "output_filename": "exported_epic_data.csv"
+}
